@@ -83,6 +83,8 @@ public class MainActivity extends AppCompatActivity {
             "https://www.yangshipin.cn/#/tv/home?pid=600002532",
             "https://www.yangshipin.cn/#/tv/home?pid=600002493",
             "https://www.yangshipin.cn/#/tv/home?pid=600002513",
+            "https://www.chinashishi.net/folder113/folder120",
+            "http://www.jinjiang.tv/live",
     };
 
     private String[] channelNames = {
@@ -127,6 +129,8 @@ public class MainActivity extends AppCompatActivity {
             "39 安徽卫视",
             "40 河北卫视",
             "41 山东卫视",
+            "42 石狮卫视",
+            "41 晋江卫视",
     };
 
     private int currentLiveIndex;
